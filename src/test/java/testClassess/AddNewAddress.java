@@ -22,7 +22,7 @@ import pomClassess.LoginPage;
 import pomClassess.ProfilePage;
 import utilityClassess.UtilityClass;
 
-public class AddNewAddress {
+public class AddNewAddress {                         //19.25 time @ do it once
 
 
 	WebDriver driver;
